@@ -8,6 +8,26 @@
         <plural>true</plural>
         <value>Contacts</value>
     </caseValues>
+    <fields>
+        <label><!-- Address --></label>
+        <name>Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Allow discont --></label>
+        <name>Allow_discont__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>Phone__c</name>
+    </fields>
     <recordTypes>
         <label><!-- Client --></label>
         <name>Client</name>

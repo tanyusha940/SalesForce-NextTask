@@ -8,5 +8,29 @@
         <plural>true</plural>
         <value>Stores</value>
     </caseValues>
+    <fields>
+        <label><!-- Amount of goods --></label>
+        <name>Amount_of_goods__c</name>
+    </fields>
+    <fields>
+        <label><!-- Amount of provided materials --></label>
+        <name>Amount_of_provided_materials__c</name>
+    </fields>
+    <fields>
+        <label><!-- Amount of sold goods --></label>
+        <name>Amount_of_sold_goods__c</name>
+    </fields>
+    <fields>
+        <label><!-- End Period --></label>
+        <name>End_Period__c</name>
+    </fields>
+    <fields>
+        <label><!-- Spent of provided materials --></label>
+        <name>Spent_of_provided_materials__c</name>
+    </fields>
+    <fields>
+        <label><!-- Start Period --></label>
+        <name>Start_Period__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
