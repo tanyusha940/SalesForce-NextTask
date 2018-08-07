@@ -22,6 +22,14 @@
         <name>Date_of_purchase__c</name>
     </fields>
     <fields>
+        <label><!-- Date of receiving --></label>
+        <name>Date_of_receiving__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
         <label><!-- Name --></label>
         <name>Name__c</name>
     </fields>

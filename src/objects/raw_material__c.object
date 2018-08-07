@@ -49,7 +49,11 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
+<<<<<<< Updated upstream
     <enableSearch>false</enableSearch>
+=======
+    <enableSearch>true</enableSearch>
+>>>>>>> Stashed changes
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
@@ -76,6 +80,17 @@
         <type>Lookup</type>
     </fields>
     <fields>
+<<<<<<< Updated upstream
+=======
+        <fullName>Date_of_receiving__c</fullName>
+        <externalId>false</externalId>
+        <label>Date of receiving</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+>>>>>>> Stashed changes
         <fullName>Made_in__c</fullName>
         <externalId>false</externalId>
         <label>Made in</label>
@@ -179,6 +194,14 @@
         <unique>false</unique>
     </fields>
     <label>raw material</label>
+<<<<<<< Updated upstream
+=======
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+>>>>>>> Stashed changes
     <nameField>
         <label>raw Name</label>
         <type>Text</type>

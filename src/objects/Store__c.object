@@ -49,7 +49,11 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
+<<<<<<< Updated upstream
     <enableSearch>false</enableSearch>
+=======
+    <enableSearch>true</enableSearch>
+>>>>>>> Stashed changes
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
@@ -129,6 +133,14 @@
         <type>Date</type>
     </fields>
     <label>Store</label>
+<<<<<<< Updated upstream
+=======
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+>>>>>>> Stashed changes
     <nameField>
         <label>Store Name</label>
         <type>Text</type>

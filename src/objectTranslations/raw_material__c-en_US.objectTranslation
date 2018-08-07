@@ -18,6 +18,13 @@
         <relationshipLabel><!-- raw material --></relationshipLabel>
     </fields>
     <fields>
+<<<<<<< Updated upstream
+=======
+        <label><!-- Date of receiving --></label>
+        <name>Date_of_receiving__c</name>
+    </fields>
+    <fields>
+>>>>>>> Stashed changes
         <label><!-- Made in --></label>
         <name>Made_in__c</name>
         <picklistValues>
